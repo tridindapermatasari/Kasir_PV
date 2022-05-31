@@ -1,0 +1,17 @@
+C:\Users\Amru khair\Documents\SharpDevelop Projects\CRUD_PV\obj\Debug\CRUD_PV.csprojResolveAssemblyReference.cache
+C:\Users\Amru khair\Documents\SharpDevelop Projects\CRUD_PV\obj\Debug\CRUD_PV.MainForm.resources
+C:\Users\Amru khair\Documents\SharpDevelop Projects\CRUD_PV\obj\Debug\CRUD_PV.csproj.GenerateResource.Cache
+C:\Users\Amru khair\Documents\SharpDevelop Projects\CRUD_PV\bin\Debug\CRUD_PV.exe
+C:\Users\Amru khair\Documents\SharpDevelop Projects\CRUD_PV\bin\Debug\CRUD_PV.pdb
+C:\Users\Amru khair\Documents\SharpDevelop Projects\CRUD_PV\bin\Debug\MySql.Data.dll
+C:\Users\Amru khair\Documents\SharpDevelop Projects\CRUD_PV\bin\Debug\MySql.Data.Entity.dll
+C:\Users\Amru khair\Documents\SharpDevelop Projects\CRUD_PV\bin\Debug\MySql.Web.dll
+C:\Users\Amru khair\Documents\SharpDevelop Projects\CRUD_PV\obj\Debug\CRUD_PV.exe
+C:\Users\Amru khair\Documents\SharpDevelop Projects\CRUD_PV\obj\Debug\CRUD_PV.pdb
+C:\Users\ASUS\Downloads\CRUD_PV\CRUD_PV\bin\Debug\CRUD_PV.exe
+C:\Users\ASUS\Downloads\CRUD_PV\CRUD_PV\bin\Debug\CRUD_PV.pdb
+C:\Users\ASUS\Downloads\CRUD_PV\CRUD_PV\obj\Debug\CRUD_PV.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Downloads\CRUD_PV\CRUD_PV\obj\Debug\CRUD_PV.MainForm.resources
+C:\Users\ASUS\Downloads\CRUD_PV\CRUD_PV\obj\Debug\CRUD_PV.csproj.GenerateResource.Cache
+C:\Users\ASUS\Downloads\CRUD_PV\CRUD_PV\obj\Debug\CRUD_PV.exe
+C:\Users\ASUS\Downloads\CRUD_PV\CRUD_PV\obj\Debug\CRUD_PV.pdb
